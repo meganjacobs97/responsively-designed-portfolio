@@ -1,7 +1,9 @@
-/* copied from css-tricks.com */
+/* universal selector */
 * {
     color: #253336; 
 }
+/* element selectors */
+/* copied from css-tricks.com */
 html { 
     /* image from https://www.pexels.com/photo/fogs-on-green-mountain-1054222/ */
     background: url(assets/green-mountain.jpg) no-repeat center center fixed; 
@@ -13,6 +15,16 @@ html {
 body {
     background-color: transparent; 
 }
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #253336;
+    text-align: center;
+    padding: .5em; 
+}
+/* class selectors */
 .container {
     background-color: #B5D4C9; 
     margin-top: 50px; 
@@ -25,15 +37,6 @@ body {
 }
 .b-margin {
     margin-bottom: 15px; 
-}
-footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #253336;
-    text-align: center;
-    padding: .5em; 
 }
 .footer-text {
     color: white;
