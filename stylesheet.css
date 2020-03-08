@@ -16,12 +16,25 @@ body {
 .container {
     background-color: #B5D4C9; 
     margin-top: 50px; 
+    margin-bottom: 50px; 
     padding-top: 10px; 
-    padding-bottom: 25px; 
+    padding-bottom: 10px; 
 }
 .navbar {
-    background-color: #253336 
+    background-color: #253336;
 }
 .b-margin {
     margin-bottom: 15px; 
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #253336;
+    text-align: center;
+    padding: .5em; 
+}
+.footer-text {
+    color: white;
 }
