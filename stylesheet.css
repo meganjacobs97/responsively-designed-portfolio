@@ -24,6 +24,12 @@ footer {
     text-align: center;
     padding: .5em; 
 }
+a {
+    color: #45585F;
+}
+a:hover {
+    color: #253336; 
+}
 /* class selectors */
 .container {
     background-color: #B5D4C9; 
@@ -40,4 +46,10 @@ footer {
 }
 .footer-text {
     color: white;
+}
+.projectDescription {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-left: 0px; 
+    
 }
