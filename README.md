@@ -15,7 +15,7 @@ In order to see the mobile responsiveness of the site, you have a couple options
 * View on your mobile device. 
 * Use Google Chrome's [DevTools](https://developers.google.com/web/tools/chrome-devtools) by right-clicking and selecting "inspect." From there, you can toggle the device toolbar and then switch the view to different devices. 
 
-To edit the code for yourself, you can use an IDE such as [VS Code](https://code.visualstudio.com/). 
+To edit the code for yourself, you can use an IDE such as [VS Code](https://code.visualstudio.com/). z
 
 ## Credits 
 
